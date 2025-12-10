@@ -32,6 +32,10 @@ InXpect: Lightweight XDP Profiling : https://dl.acm.org/doi/pdf/10.1145/3748355.
 
 InXpect: Lightweight XDP Profiling code: https://github.com/VladimiroPaschali/eBPF-InXpect
 
+On-demand Container Loading in AWS Lambda : https://arxiv.org/pdf/2305.13162
+
+Serverless Runtime / Database Co-Design With Asynchronous I/O : https://dl.acm.org/doi/pdf/10.1145/3642968.3654821
+
 
 
 
