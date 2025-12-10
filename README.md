@@ -23,10 +23,15 @@ Search Google using site operator: eg "nano practice coatings site:mst.edu pdf"
 
 <h1>Research Papers Virtulizations</h1>
 Pregel: A System for Large-Scale Graph Processing : https://15799.courses.cs.cmu.edu/fall2013/static/papers/p135-malewicz.pdf
+
 Firecracker: Lightweight Virtualization for Serverless Applications: https://www.usenix.org/system/files/nsdi20-paper-agache.pdf
+
 AGILE: elastic distributed resource scaling for Infrastructure-as-a-Service: https://www.usenix.org/system/files/conference/icac13/icac13_nguyen.pdf
+
 InXpect: Lightweight XDP Profiling : https://dl.acm.org/doi/pdf/10.1145/3748355.3748367
+
 InXpect: Lightweight XDP Profiling code: https://github.com/VladimiroPaschali/eBPF-InXpect
+
 
 
 
